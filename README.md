@@ -5,6 +5,7 @@ This study aims to detect water tanks installed on rooftops and swimming pools i
 
 If you use DL-Aedes in an academic manuscript, please cite:
 
+```
 @article{in hold,
     title     = {{in hold}},
     author    = {in hold},
@@ -14,4 +15,4 @@ If you use DL-Aedes in an academic manuscript, please cite:
     year      = {in hold},
     publisher = {in hold}
 }
-
+```
