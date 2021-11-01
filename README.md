@@ -18,3 +18,4 @@ If you use DL-Aedes in an academic manuscript, please cite:
 ```
 # Pipeline
 
+aux_images/Work Methodology Flowchart.jpg
