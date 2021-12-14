@@ -1,5 +1,5 @@
 # Water tank and swimming pool detection based on remote sensing and deep learning: Relationship with socioeconomic level and applications in dengue control
-This study aims to detect water tanks installed on rooftops and swimming pools in digital images to identify and classify areas based on the socioeconomic index, in order to assist public health programs in the control of diseases linked to the Aedes aegypti mosquito.
+This study aims to detect water tanks installed on rooftops and swimming pools in digital images to identify and classify areas based on the socioeconomic index, in order to assist public health programs in the control of diseases linked to the Aedes aegypti mosquito.     
 
 # Pipeline
 The work methodology followed for this work is presented below
